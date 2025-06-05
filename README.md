@@ -56,8 +56,8 @@ pip install datasets sentence-transformers langchain transformers faiss-cpu grad
 
 ## 📷 Screenshot
 
-![RAG Demo 1](images/rag_demo.png)
-![RAG Demo 2](images/rag_demo2.png)
+![RAG Demo](images/rage_demo.png)
+![RAG Demo](images/rag_demo2.png)
 
 ## 📄 License
 
